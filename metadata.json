@@ -1,0 +1,8 @@
+{
+  "name": "テキスト抽出ツール (Text Extractor)",
+  "description": "An application that extracts editable text from image files using AI. Users can upload images via drag-and-drop or by using the device's camera.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
